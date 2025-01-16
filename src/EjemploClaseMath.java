@@ -15,5 +15,6 @@ public class EjemploClaseMath {
 
         double floor = Math.floor(3.5);
         System.out.println("floor = " + floor);
+        //nueva integracion
     }
 }
